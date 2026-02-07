@@ -58,8 +58,8 @@ Software Engineering Student | Frontend Developer | Data Science Enthusiast | Fl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-m6yar8dx7-ayman-kzs-projects-4939e02f.vercel.app/api?username=ayman-kz25&show_icons=true&count_private=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats-m6yar8dx7-ayman-kzs-projects-4939e02f.vercel.app/api/top-langs/?username=ayman-kz25&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-puce-nine-38.vercel.app/api?username=ayman-kz25&show_icons=true&count_private=true&theme=radical&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats-puce-nine-38.vercel.app/api/top-langs/?username=ayman-kz25&layout=compact&theme=radical&cache_seconds=1800" height="160"/>
 </p>
 
 ---
