@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayman Kz</h1>
+<h1 align="center">Hi 👋🏻, I'm Ayman Kz</h1>
 <h3 align="center">Software Engineering Student | Frontend Developer | Data Science Beginner | Flutter Learner</h3>
 
 <p align="center">
@@ -71,12 +71,23 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Portfolio Website](https://github.com/Ayman-Kz25/portfolio) | Personal portfolio to showcase my work | HTML, CSS, JS |
-| [Flutter App](https://github.com/Ayman-Kz25/flutter_app) | Mobile app built with Flutter | Flutter, Dart, Firebase |
-| [Data Analysis](https://github.com/Ayman-Kz25/data_analysis) | Beginner Data Science projects: data collection, prep, visualization | Python, Pandas, Matplotlib |
+| [My Portfolio](https://github.com/Ayman-Kz25/My-Portfolio) | Advanced Developer Portfolio | ReactJS, TailwindCSS |
+| [TaskFlow](https://github.com/Ayman-Kz25/taskflow) | Task Management App | React, Firebase |
+| [SkyScope Weather App](https://github.com/Ayman-Kz25/SkyScope-WeatherApp) | Real-time Weather App | React, API |
+| [Automated Data Visualization System](https://github.com/Ayman-Kz25/Automated_Data_Visualization_System) | React-based Data Visualization | React, Charts.js |
+| [Country Navigator](https://github.com/Ayman-Kz25/CountryNavigator) | Country Info & Explorer App | React, REST API |
+| [Blossom Dreams](https://github.com/Ayman-Kz25/Blossom_Dreams) | Landing Page Project | React, CSS |
+| [Pato Restaurant Website](https://github.com/Ayman-Kz25/Pato_Restaurant_Website) | Restaurant Website | HTML, Bootstrap |
+| [Music School Registration Form](https://github.com/Ayman-Kz25/Music_Shool_Registration_Form) | Form with Data Automation | HTML, AppScript |
+
+<p align="center">
+  <a href="https://github.com/Ayman-Kz25?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20All%20Projects-9cf?style=for-the-badge&logo=github&logoColor=white" alt="See All Projects" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Made with ❤️ by Ayman Kz</i>
+  <sm>&copy; All Rights Reserved By Ayman Kz</sm>
 </p>
