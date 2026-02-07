@@ -1,4 +1,5 @@
-<h1 align="center">Hello, I'm Ayman Kz</h1>
+<div background="dark">
+  <h1 align="center">Hello, I'm Ayman Kz</h1>
 <h3 align="center">
 Software Engineering Student | Frontend Developer | Data Science Enthusiast | Flutter Learner
 </h3>
@@ -20,7 +21,7 @@ Software Engineering Student | Frontend Developer | Data Science Enthusiast | Fl
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/ayman-kz-8807b4379/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
 </a>
@@ -63,3 +64,5 @@ Software Engineering Student | Frontend Developer | Data Science Enthusiast | Fl
   <img src="https://github-readme-stats-puce-nine-38.vercel.app/api/top-langs/?username=ayman-kz25&layout=compact&theme=radical&cache_seconds=1800" height="160"/>
 </p>
 
+
+</div>
