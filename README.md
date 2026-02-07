@@ -66,6 +66,4 @@ Software Engineering Student | Frontend Developer | Data Science Enthusiast | Fl
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayman-kz25&theme=flat&no-frame=true&margin-w=10"/>
-</p>
+
