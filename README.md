@@ -63,10 +63,3 @@ Software Engineering Student | Frontend Developer | Data Science Enthusiast | Fl
   <img src="https://github-readme-stats-puce-nine-38.vercel.app/api/top-langs/?username=ayman-kz25&layout=compact&theme=radical&cache_seconds=1800" height="160"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-seven-eta.vercel.app/?username=Ayman-Kz25&theme=flat&no-frame=true" />
-</p>
