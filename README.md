@@ -20,10 +20,11 @@ Software Engineering Student | Frontend Developer | Data Science Enthusiast | Fl
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/ayman-kz-8807b4379/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
 </a>
+  
 <a href="https://www.kaggle.com/aymankz" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40"/>
 </a>
