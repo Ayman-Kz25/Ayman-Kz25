@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Ayman Kz</h1>
+<h1 align="center">Hello 👋🏻, I'm Ayman Kz</h1>
 <h3 align="center">Software Engineering Student | Frontend Developer | Data Science Beginner | Flutter Learner</h3>
 
 <p align="center">
