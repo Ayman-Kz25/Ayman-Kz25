@@ -72,6 +72,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [My Portfolio](https://github.com/Ayman-Kz25/My-Portfolio) | Advanced Developer Portfolio | ReactJS, TailwindCSS |
+| [HobbyHub](https://github.com/Ayman-Kz25/hobbyhub) | Social Media Application | React, MongoDB, Express, Node.Js |
 | [TaskFlow](https://github.com/Ayman-Kz25/taskflow) | Task Management App | React, Firebase |
 | [SkyScope Weather App](https://github.com/Ayman-Kz25/SkyScope-WeatherApp) | Real-time Weather App | React, API |
 | [Automated Data Visualization System](https://github.com/Ayman-Kz25/Automated_Data_Visualization_System) | React-based Data Visualization | React, Charts.js |
