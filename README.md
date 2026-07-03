@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏻, I'm Ayman Kz</h1>
-<h3 align="center">Software Engineering Student | Frontend Developer | Data Science Beginner | Flutter Learner</h3>
+<h3 align="center">Software Engineering Student | Frontend Developer | Data Science Enthusiast | Backend Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayman-kz25&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Data Science & Analytics and Flutter**  
+- 🌱 Currently learning **Data Science & Analytics and Backend Development**  
 - 👨‍💻 Check out my work on [LinkedIn](https://www.linkedin.com/in/ayman-kz-8807b4379/)  
 - 📫 Reach me at: **kamalakz786@gmail.com**  
 - 💡 Passionate about building modern web and mobile applications  
