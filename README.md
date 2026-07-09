@@ -12,7 +12,7 @@
 - 🌱 Currently learning **Data Science & Analytics and Backend Development**  
 - 👨‍💻 Check out my work on [LinkedIn](https://www.linkedin.com/in/ayman-kz-8807b4379/)  
 - 📫 Reach me at: **kamalakz786@gmail.com**  
-- 💡 Passionate about building modern web and mobile applications  
+- 💡 Passionate about building modern web solutions  
 
 ---
 
