@@ -74,6 +74,7 @@
 | [My Portfolio](https://github.com/Ayman-Kz25/My-Portfolio) | Advanced Developer Portfolio | ReactJS, TailwindCSS |
 | [HobbyHub](https://github.com/Ayman-Kz25/hobbyhub) | Social Media Application | React, MongoDB, Express, Node.Js |
 | [Book&Stay](https://github.com/Ayman-Kz25/bookNstay) | Hotel Booking Application | React, MongoDB, Express, Node.Js |
+| [Planner](https://github.com/Ayman-Kz25/planner) | Task Planning & Management App | React, TailwindCSS, Firebase |
 | [TaskFlow](https://github.com/Ayman-Kz25/taskflow) | Task Management App | React, Firebase |
 | [SkyScope Weather App](https://github.com/Ayman-Kz25/SkyScope-WeatherApp) | Real-time Weather App | React, API |
 | [Automated Data Visualization System](https://github.com/Ayman-Kz25/Automated_Data_Visualization_System) | React-based Data Visualization | React, Charts.js |
